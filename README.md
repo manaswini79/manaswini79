@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manaswini79
+- 👋 Hi, I’m manaswini
 - 🌱 I’m currently learning web development and machine learning
 - 📫 How to reach me manaswini079@gmail.com
 
